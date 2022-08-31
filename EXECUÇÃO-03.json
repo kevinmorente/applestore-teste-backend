@@ -1,0 +1,92 @@
+[
+    {
+        "Unnamed: 0.1":0,
+        "Unnamed: 0":7,
+        "id":284035177,
+        "track_name":"Pandora - Music & Radio",
+        "size_bytes":130242560,
+        "price":0.0,
+        "prime_genre":"Music"
+    },
+    {
+        "Unnamed: 0.1":2,
+        "Unnamed: 0":18,
+        "id":284993459,
+        "track_name":"Shazam - Discover music, artists, videos & lyrics",
+        "size_bytes":147093504,
+        "price":0.0,
+        "prime_genre":"Music"
+    },
+    {
+        "Unnamed: 0.1":3,
+        "Unnamed: 0":35,
+        "id":290638154,
+        "track_name":"iHeartRadio \u2013 Free Music & Radio Stations",
+        "size_bytes":116443136,
+        "price":0.0,
+        "prime_genre":"Music"
+    },
+    {
+        "Unnamed: 0.1":4,
+        "Unnamed: 0":82,
+        "id":302584613,
+        "track_name":"Kindle \u2013 Read eBooks, Magazines & Textbooks",
+        "size_bytes":169747456,
+        "price":0.0,
+        "prime_genre":"Book"
+    },
+    {
+        "Unnamed: 0.1":1,
+        "Unnamed: 0":178,
+        "id":324684580,
+        "track_name":"Spotify Music",
+        "size_bytes":132510720,
+        "price":0.0,
+        "prime_genre":"Music"
+    },
+    {
+        "Unnamed: 0.1":5,
+        "Unnamed: 0":238,
+        "id":336353151,
+        "track_name":"SoundCloud - Music & Audio",
+        "size_bytes":105009152,
+        "price":0.0,
+        "prime_genre":"Music"
+    },
+    {
+        "Unnamed: 0.1":8,
+        "Unnamed: 0":701,
+        "id":418987775,
+        "track_name":"TuneIn Radio - MLB NBA Audiobooks Podcasts Music",
+        "size_bytes":101735424,
+        "price":0.0,
+        "prime_genre":"Music"
+    },
+    {
+        "Unnamed: 0.1":6,
+        "Unnamed: 0":713,
+        "id":421254504,
+        "track_name":"Magic Piano by Smule",
+        "size_bytes":55030784,
+        "price":0.0,
+        "prime_genre":"Music"
+    },
+    {
+        "Unnamed: 0.1":7,
+        "Unnamed: 0":1229,
+        "id":509993510,
+        "track_name":"Smule Sing!",
+        "size_bytes":109940736,
+        "price":0.0,
+        "prime_genre":"Music"
+    },
+    {
+        "Unnamed: 0.1":9,
+        "Unnamed: 0":1236,
+        "id":510855668,
+        "track_name":"Amazon Music",
+        "size_bytes":77778944,
+        "price":0.0,
+        "prime_genre":"Music"
+    }
+]

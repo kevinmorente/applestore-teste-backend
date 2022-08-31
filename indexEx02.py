@@ -2,6 +2,7 @@ import pandas as pd
 import json
 import sqlite3
 
+#Criando um banco de dados e abilitando um cursor
 con2 = sqlite3.connect('bddEXECUÇÃO02.db')
 cursor = con2.cursor()
 

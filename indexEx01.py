@@ -6,7 +6,6 @@ import sqlite3
 con = sqlite3.connect('bddEXECUÇÃO01.db')
 cursor = con.cursor()
 
-
 #lendo o csv bruto.
 tabela = pd.read_csv(
     "AppleStore.csv",
