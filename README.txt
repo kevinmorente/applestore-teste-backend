@@ -1,6 +1,6 @@
 # applestore-teste-backend
 
-Olá, antes de tudo queria agradecer a oportunidade! Antes de executar o index você precisa
+Olá, Antes de executar o index você precisa
 ter alguns itens instalados em seu pc, o sistema que utilizei para fazer toda a execução foi
 o linux então pode mudar de acordo com seu sistema operacional.
 
